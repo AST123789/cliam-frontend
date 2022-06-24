@@ -1,0 +1,63 @@
+/*  -------******** big device ********---------- */
+@media screen and (min-width:1350px) and (max-width:1920px) {
+
+}
+
+@media screen and (min-width:1025px) and (max-width:1300px) {
+
+
+}
+
+/*  ----------******** End of laptop device ********-------------- */
+@media screen and (min-width: 901px) and (max-width: 1024px) {
+
+
+}
+
+@media screen and (min-width: 651px) and (max-width: 900px) {
+.UserDetails {  margin-left: 0%;  margin-top: 5%;}
+.ftext-right { float: left;  padding-top: 10px;}
+
+
+
+
+
+}
+
+/*  ----------***** Mobile device *****--------- */
+@media screen and (max-width: 650px) {
+.skin-green .main-header .navbar .sidebar-toggle { display: block;}
+.skin-green .main-header .logo { background-color: #008d4c;  color: #fff;}
+.main-header .logo { text-align: center; }
+.UserDetails {  margin-left: 0%;  margin-top: 5%;}
+.profile-head .back img {  width: 15px;}
+.profile-head .profiledtl { margin-left: 15px;}
+.profile-head .profileimg img { width: 40px; height: 40px;  border-radius: 50%;}
+.profile-head .profileinfo {  margin-left: 10px;}
+.profile-head .profileinfo .name{    font-size: 16px;}
+.profile-head .profileinfo .org {  font-size: 12px;}
+.profile-head .back {  padding: 10px 0;}
+.ftext-right { float: left;  padding-top: 10px;}
+
+
+
+}
+
+@media screen and (max-width:767px) {
+
+
+}
+
+/*  ---------***** End of Mobile device *****--------*/
+@media screen and (min-width: 451px) and (max-width: 650px) {}
+
+@media screen and (max-width: 420px) {
+/* .nav-top-right li {padding-right: 9px;  display: inline-block;} */
+/* .nav-top-right { padding: 5px;} */
+
+}
+
+
+@media(max-width:767px){
+  
+}
